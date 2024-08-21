@@ -1,0 +1,43 @@
+Epoch 0, Loss: 0.7829993963241577
+Epoch 0, Loss: 0.512285590171814
+Epoch 0, Loss: 0.34088650345802307
+Epoch 0, Loss: 0.2608737349510193
+Epoch 0, Loss: 0.17491403222084045
+Epoch 0, Loss: 0.17238937318325043
+Epoch 0, Loss: 0.13543741405010223
+Epoch 0, Loss: 0.08383630216121674
+Epoch 0, Loss: 0.06474635004997253
+Epoch 0, Loss: 0.050845447927713394
+Epoch 0, Loss: 0.038968365639448166
+Epoch 0, Loss: 0.03193884342908859
+Epoch 0, Loss: 0.028134139254689217
+Epoch 0, Loss: 0.020858513191342354
+Epoch 0, Loss: 0.01573890820145607
+Title: A study of machine learning in healthcare
+Link: https://ieeexplore.ieee.org/abstract/document/8029924/
+Similarity Score: 0.9679
+--------------------------------------------------------------------------------
+Title: Machine learning for healthcare wearable devices: the big picture
+Link: https://onlinelibrary.wiley.com/doi/abs/10.1155/2022/4653923
+Similarity Score: 0.9675
+--------------------------------------------------------------------------------
+Title: Exploring the applications of machine learning in healthcare
+Link: https://www.ingentaconnect.com/content/ben/swcc/2020/00000010/00000004/art00005
+Similarity Score: 0.9674
+--------------------------------------------------------------------------------
+Title: Machine learning in healthcare
+Link: https://www.sciencedirect.com/science/article/pii/B9780128095232000194
+Similarity Score: 0.9658
+--------------------------------------------------------------------------------
+Title: Interpretable machine learning in healthcare
+Link: https://dl.acm.org/doi/abs/10.1145/3233547.3233667
+Similarity Score: 0.9651
+--------------------------------------------------------------------------------
+Precision@10: 0.6000
+Recall@10: 1.0000
+F1 Score@10: 0.7500
+MAP@10: 0.0000
+
+Please rate the relevance of each recommended paper on a scale from 1 to 5 (1 = Not relevant, 5 = Very relevant):
+
+Relevance of paper 1 (Title: Sample Paper 1): 

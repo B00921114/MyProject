@@ -1,0 +1,14 @@
+datasets/
+models/
+*.csv
+*.png
+*.jpeg
+*.md
+*.gitignore
+.git/
+tests/
+.vscode/
+.idea/
+venv/
+env/
+

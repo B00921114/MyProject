@@ -1,0 +1,21 @@
+# Ignore virtual environment folders
+venv/
+env/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore environment variables file
+.env
+
+# Ignore datasets and models (if they are large or sensitive)
+datasets/
+models/
+
+# Ignore NLTK corpora (since they can be downloaded during deployment)
+nltk_data/
+
+# Ignore any IDE-specific files
+.vscode/
+.idea/
