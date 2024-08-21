@@ -7,3 +7,5 @@ nltk
 schedule
 streamlit
 tabulate
+torch==1.13.1
+
